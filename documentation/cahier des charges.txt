@@ -1,0 +1,17 @@
+- ajouter des photos sur le site
+- voir la liste des photos
+- voter avec un identifiant unique (identifiants ENT)
+- date limite pour l'envoi des photos
+- recherche des photos sur google
+- IHM érgonomique et facilement utilisable
+- affichage des résultats des votes après la date limite
+- page d'accueil pour les informations
+- recherche des photos / participants
+- commmunication claire qui donne envie de participer
+- une photo par participant
+- photo ne doit pas être retouchée (?)
+- faire une affiche avec un QR code qui ramène à la page web
+- les photos doivent avoir une légende
+- le vote s'effectuera avec des cases à cocher sur chaque photo
+- le podium doit inclure le nombre de vote reçu et l'étudiant 
+- Seuls les étudiants et les profs peuvent voter

@@ -1,0 +1,8 @@
+Modele logique
+
+user(id,prénom,departement,admin)
+photo(id,legende,#user_id)
+vote(id,#user_id, #photo_id)
+
+user_id est le foreign key correspondant à user(id)
+photo_id est le foreign key correspondant à photo(id)
